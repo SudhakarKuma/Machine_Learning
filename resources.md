@@ -4,4 +4,8 @@
   
 * [One-Hot-Encoding, Multicollinearity and the Dummy Variable Trap](https://towardsdatascience.com/one-hot-encoding-multicollinearity-and-the-dummy-variable-trap-b5840be3c41a)
   * Defining One-Hot-Encoding and Multicollinearity
-  * Avoiding dummy variable trap  
+  * Avoiding dummy variable trap
+  
+* [Diving Deep with Imbalanced Data](https://www.datacamp.com/community/tutorials/diving-deep-imbalanced-data)
+  * What is an imbalanced dataset
+  * Techniques to deal with an imbalanced dataset
