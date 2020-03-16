@@ -9,3 +9,7 @@
 * [Diving Deep with Imbalanced Data](https://www.datacamp.com/community/tutorials/diving-deep-imbalanced-data)
   * What is an imbalanced dataset
   * Techniques to deal with an imbalanced dataset
+ 
+* [How to customize Seaborn Correlation Heatmaps](https://medium.com/@chrisshaw982/seaborn-correlation-heatmaps-customized-10246f4f7f4b)
+  * Adjusting figure size, value of the color scale, etc. 
+  * Showing the value of earson correlation coefficiens
