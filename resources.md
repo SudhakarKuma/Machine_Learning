@@ -17,6 +17,11 @@
 * [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
   * Effective ways to handle imbalanced classes
   * Changing the performance metric from accuracy to precision, recall, etc.
+
+* [Cost-Sensitive Logistic Regression for Imbalanced Classification](https://machinelearningmastery.com/cost-sensitive-logistic-regression/)
+  * How standard logistic regression does not support imbalanced classification.
+  * How logistic regression can be modified to weight model error by class weight when fitting the coefficients.
+  * How to configure class weight for logistic regression and how to grid search different class weight configurations.
  
 * [How to customize Seaborn Correlation Heatmaps](https://medium.com/@chrisshaw982/seaborn-correlation-heatmaps-customized-10246f4f7f4b)
   * Adjusting figure size, value of the color scale, etc. 
