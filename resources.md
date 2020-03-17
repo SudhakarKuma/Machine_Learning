@@ -13,6 +13,10 @@
 * [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
   * Detecting a naive behaviour 
   * Undersampling, oversampling and generating synthetic data
+  
+* [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
+  * Effective ways to handle imbalanced classes
+  * Changing the performance metric from accuracy to precision, recall, etc.
  
 * [How to customize Seaborn Correlation Heatmaps](https://medium.com/@chrisshaw982/seaborn-correlation-heatmaps-customized-10246f4f7f4b)
   * Adjusting figure size, value of the color scale, etc. 
