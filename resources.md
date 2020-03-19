@@ -22,7 +22,11 @@
   * How standard logistic regression does not support imbalanced classification.
   * How logistic regression can be modified to weight model error by class weight when fitting the coefficients.
   * How to configure class weight for logistic regression and how to grid search different class weight configurations.
- 
+
+* [Rescaling Data for Machine Learning in Python with Scikit-Learn](https://machinelearningmastery.com/rescaling-data-for-machine-learning-in-python-with-scikit-learn/)
+  * Data Rescaling, Data Normalization, and Data Standardization
+  * When to use Normalization and when to use Standardization
+
 * [How to customize Seaborn Correlation Heatmaps](https://medium.com/@chrisshaw982/seaborn-correlation-heatmaps-customized-10246f4f7f4b)
   * Adjusting figure size, value of the color scale, etc. 
   * Showing the value of earson correlation coefficiens
