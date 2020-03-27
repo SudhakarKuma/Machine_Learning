@@ -30,5 +30,8 @@
 * [How to customize Seaborn Correlation Heatmaps](https://medium.com/@chrisshaw982/seaborn-correlation-heatmaps-customized-10246f4f7f4b)
   * Adjusting figure size, value of the color scale, etc. 
   * Showing the value of earson correlation coefficiens
-  
+ 
+* [20 Machine Learning Interview Questions You Must Know for Data Scientists](https://towardsdatascience.com/20-machine-learning-interview-practice-problems-3c86a572eeec)
+  * Some important machine learning and data science interview questions
+  * What is PCA,  ensemble learning, etc. 
 
