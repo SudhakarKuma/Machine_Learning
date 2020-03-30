@@ -18,6 +18,10 @@
   * Effective ways to handle imbalanced classes
   * Changing the performance metric from accuracy to precision, recall, etc.
 
+* [Upsampling with SMOTE for Classification Projects](https://towardsdatascience.com/upsampling-with-smote-for-classification-projects-e91d7c44e4bf)
+  * Difference between upsampling and SMOTE 
+  * Parameters to be used in SMOTE 
+  
 * [Cost-Sensitive Logistic Regression for Imbalanced Classification](https://machinelearningmastery.com/cost-sensitive-logistic-regression/)
   * How standard logistic regression does not support imbalanced classification.
   * How logistic regression can be modified to weight model error by class weight when fitting the coefficients.
