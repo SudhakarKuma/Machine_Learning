@@ -62,7 +62,7 @@ In July 2019, I attended the [4th Summer School on Machine Learning](http://cvit
 
 ## Online resources 
 <p align="center">
-  <src="https://asic.org.uk/wp-content/uploads/2017/01/OnlineResources.png">
+  <img src="https://asic.org.uk/wp-content/uploads/2017/01/OnlineResources.png">
 </p>
 
 While looking for regular doubts in ML/Python, I found some of the online resources very lucid. All these resources have been compiled in the markdown file named `Online-resources.md`. 
