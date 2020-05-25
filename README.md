@@ -34,7 +34,9 @@ In the summers of 2020, I completed one career track, named **[Machine Learning 
 The slides used in the above mentioned courses, code files, datasets, cheat sheets, etc. are accessible in the folder named [DataCamp_Notes](https://github.com/SudhakarKuma/Machine_Learning/tree/master/DataCamp_Notes). 
 
 ## DataCamp Projects 
+<div align="center">
 ![DataCamp projects](https://cdn.datacamp.com/main-app/assets/projects/projects-illustration-fb3e253ea0527cd53aafbd5ed1c4570a5c818c8deba9d0cedceb095bf64cb3fa.svg)
+  </div>
 
 After finishing the ML/DL courses, I completed a few projects on [DataCamp](https://learn.datacamp.com/projects), as given below. These projects made me utilize both ML and DL skills using Python. 
 
@@ -52,8 +54,10 @@ Additionally, I did a project on [visualizing COVID19](https://learn.datacamp.co
 The notebooks and the datasets of these projects are accessible in the folder named [DataCamp_Projects](https://github.com/SudhakarKuma/Machine_Learning/tree/master/DataCamp_Projects). 
 
 ## Summer School (IIIT Hyderabad)
+<div align="center">
 ![IIIT Hyderabad](https://miro.medium.com/max/400/1*kzso1Ojfc8c0moD2bIs_wQ.jpeg)
-
+    </div>
+    
 In July 2019, I attended the [4th Summer School on Machine Learning](http://cvit.iiit.ac.in/mlsummerschool2019/), hosted by IIIT Hyderabad. The slides and relevant research papers used in this summer school are accessible in the folder [Summer_School_IIIT_Hyd](https://github.com/SudhakarKuma/Machine_Learning/tree/master/Summer_School_IIIT_Hyd). 
 
 ## Online resources 
