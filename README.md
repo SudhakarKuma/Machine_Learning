@@ -35,6 +35,10 @@ The slides used in the above mentioned courses, code files, datasets, cheat shee
 
 ## DataCamp Projects 
 <p align="center">
+  <img src="https://cdn.datacamp.com/main-app/assets/projects/projects-illustration-fb3e253ea0527cd53aafbd5ed1c4570a5c818c8deba9d0cedceb095bf64cb3fa.svg">
+</p>
+
+<p align="center">
   ![DataCamp projects](https://cdn.datacamp.com/main-app/assets/projects/projects-illustration-fb3e253ea0527cd53aafbd5ed1c4570a5c818c8deba9d0cedceb095bf64cb3fa.svg)
   </p>
 
