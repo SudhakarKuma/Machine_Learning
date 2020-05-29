@@ -20,7 +20,7 @@ While crediting the course EE769, the following books were instrumental in diges
 * [The Elements of Statistical Learning by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * [Understanding Machine Learning: From Theory to Algorithms by Shai Ben-David and Shai Shalev-Shwartz](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
-All these books are available in the folder named [Books](https://github.com/SudhakarKuma/Machine_Learning/tree/master/Books). The solution manuals for these books except the second book are stored in the folder [Solution_Manuals](https://github.com/SudhakarKuma/Machine_Learning/tree/master/Solution_Manuals). 
+Some of these books are freely available on the Internet. 
 
 ## DataCamp Notes 
 
