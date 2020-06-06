@@ -1,4 +1,4 @@
-# Big Mart Sales III
+# Big Mart Sales
 This is one of the datahacks organized by [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/). 
 
 ## Sales Prediction for Big Mart Outlets
