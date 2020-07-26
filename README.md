@@ -24,7 +24,8 @@ Some of these books are freely available on the Internet.
 
 ## DataCamp Notes 
 
-![DataCamp](https://moderndive.com/previous_versions/v0.4.0/images/datacamp.png)
+![Datacamp](https://github.com/SudhakarKuma/Machine_Learning/blob/master/DataCamp/datacamp.png?raw=true)
+
 
 In the summers of 2020, I completed one career track, named **[Machine Learning Scientist with Python](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python)** on DataCamp. Additionally, I completed a few courses as given below. Thanks to the DataCamp for providing free access to its premium content due to [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019). 
 
