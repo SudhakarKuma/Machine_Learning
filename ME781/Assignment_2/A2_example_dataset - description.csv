@@ -1,0 +1,7 @@
+,,,Data scale,Data value,Data type
+gender,- student's gender,"M, F",Nominal,Discrete,Discrete
+age,- student's age,Between 15 and 22,Ratio,Discrete,Discrete
+health_rating,-student's self rating of how healthy they feel in this week,"1,2,3,4,5",Ordinal,Discrete,Discrete
+StudentIQ,-student's IQ,Between 75 and 131,Ratio,Discrete,Discrete
+no_of_courses,-number of courses undertaken by the student,Between 0 and 20,Ratio,Discrete,Discrete
+Marks,-marks obtained by the student in this course,Between 0 and 100,Ratio,Continuous,Discrete
