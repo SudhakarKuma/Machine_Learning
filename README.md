@@ -20,11 +20,11 @@ While crediting the course EE769, the following books were instrumental in diges
 Some of these books are freely available on the Internet. 
 
 ## ME781 (Engineering Data Mining and Applications)
-In the fall semester (August 2020), I am crediting another course named **Engineering Data Mining and Applications** (ME781), at IIT Bombay. [Prof. Asim Tiwari](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Asim%20Tewari) is the instructor of this course. The assignments of this course are available in the folder named [ME781](https://github.com/SudhakarKuma/Machine_Learning/tree/master/ME781)
+In the fall semester (August 2020), I am crediting another course named **Engineering Data Mining and Applications** (ME781), at IIT Bombay. [Prof. Asim Tiwari](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Asim%20Tewari) is the instructor of this course. The assignments of this course are available in the folder named [ME781](https://github.com/SudhakarKuma/Machine_Learning/tree/master/ME781). 
 
 ## DataCamp 
 
-In the summers of 2020, I completed one career track, named **[Machine Learning Scientist with Python](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python)** on DataCamp. Additionally, I finished a few more courses as given below. 
+In the summers of 2020, I completed one career track, named **[Machine Learning Scientist with Python](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python)** on DataCamp. Additionally, I finished a few more courses, as given below. 
 
 * [Human Resources Analytics: Predicting Employee Churn in Python](https://learn.datacamp.com/courses/human-resources-analytics-predicting-employee-churn-in-python)
 * [Introduction to SQL](https://learn.datacamp.com/courses/introduction-to-sql)
