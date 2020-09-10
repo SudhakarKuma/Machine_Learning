@@ -8,7 +8,7 @@ I credited a course named **Introduction to Machine Learning** ([EE769](https://
 1. Implementing Support vector machine (SVM) from scratch 
 2. Predicting employee attrition using a binary classifier 
 
-The problem statements and code files for the above mentioned two assignments are available in the folder named [Assignments](https://github.com/SudhakarKuma/Machine_Learning/tree/master/EE769/Assignments). For the final evaluation of this course, I worked on a project titled [Sales Prediction for Big Mart Outlets](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/). This project is one of the machine learning competitions organized by **Analytics Vidhya**, in which I participated and could manage to get in the top 18\% (630/3638) of the submissions. The detailed approach of this project is available in the folder named [Sales-Prediction-for-Big-Mart-Outlets](https://github.com/SudhakarKuma/Machine_Learning/tree/master/EE769/Projects/Sales-Prediction-for-Big-Mart-OutletsSales-Prediction-for-Big-Mart-Outlets). 
+The problem statements and code files for the above mentioned two assignments are available in the folder named [Assignments](https://github.com/SudhakarKuma/Machine_Learning/tree/master/EE769/Assignments). For the final evaluation of this course, I worked on a project titled [Sales Prediction for Big Mart Outlets](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/). This project is one of the machine learning competitions organized by **Analytics Vidhya**, in which I participated and could manage to get in the top 18\% (630/3638) of the submissions. The detailed approach of this project is available in the folder named [Sales-Prediction-for-Big-Mart-Outlets](https://github.com/SudhakarKuma/Machine_Learning/tree/master/EE769/Projects/Sales-Prediction-for-Big-Mart-Outlets). 
 
 While crediting the course EE769, the following books were instrumental in digesting the underlying principles of ML: 
 
@@ -52,4 +52,4 @@ In July 2019, I attended the [4th Summer School on Machine Learning](http://cvit
 
 ## Online resources 
 
-While looking for regular doubts in ML/Python, I found some of the online resources very lucid. All these resources are available in the markdown file named `Online-resources.md`. 
+While looking for regular doubts in ML/Python, I found some of the online resources very lucid. All these resources are available in the markdown file named [Online-resources.md](https://github.com/SudhakarKuma/Machine_Learning/blob/master/Online-resources.md). 
