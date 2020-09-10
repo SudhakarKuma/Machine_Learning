@@ -29,7 +29,7 @@ In the summers of 2020, I completed one career track, named **[Machine Learning 
 * [Human Resources Analytics: Predicting Employee Churn in Python](https://learn.datacamp.com/courses/human-resources-analytics-predicting-employee-churn-in-python)
 * [Introduction to SQL](https://learn.datacamp.com/courses/introduction-to-sql)
 
-The slides used in the courses mentioned above, code files, datasets, cheat sheets, etc. are accessible in the folder named [DataCamp_Notes](https://github.com/SudhakarKuma/Machine_Learning/tree/master/DataCamp_Notes). 
+The slides used in the courses mentioned above, code files, datasets, cheat sheets, etc. are accessible in the folder named [DataCamp_Notes](https://github.com/SudhakarKuma/Machine_Learning/tree/master/DataCamp/DataCamp_Notes). 
 
 After finishing the ML/DL courses, I completed a few projects using Python on [DataCamp](https://learn.datacamp.com/projects), as given below.
 
@@ -44,7 +44,7 @@ After finishing the ML/DL courses, I completed a few projects using Python on [D
 
 Additionally, I did a project on [visualizing COVID19](https://learn.datacamp.com/projects/870) using the R programming language. 
 
-The notebooks and the datasets of these projects are accessible in the folder named [DataCamp_Projects](https://github.com/SudhakarKuma/Machine_Learning/tree/master/DataCamp_Projects). 
+The notebooks and the datasets of these projects are accessible in the folder named [DataCamp_Projects](https://github.com/SudhakarKuma/Machine_Learning/tree/master/DataCamp/DataCamp_Projects). 
 
 ## Summer School (IIIT Hyderabad)
     
