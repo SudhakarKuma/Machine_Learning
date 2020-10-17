@@ -20,7 +20,7 @@ While crediting the course EE769, the following books were instrumental in diges
 Some of these books are freely available on the Internet. 
 
 ## ME781 (Engineering Data Mining and Applications)
-In the fall semester (August 2020), I am crediting another course named **Engineering Data Mining and Applications** (ME781), at IIT Bombay. [Prof. Asim Tiwari](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Asim%20Tewari) is the instructor of this course. The assignments of this course are available in the folder named [ME781](https://github.com/SudhakarKuma/Machine_Learning/tree/master/ME781). 
+In the fall semester (August 2020), I am crediting another course named **Engineering Data Mining and Applications** (ME781), at IIT Bombay. [Prof. Asim Tiwari](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Asim%20Tewari) is the instructor of this course. The assignments and quiz of this course are available in the folder named [ME781](https://github.com/SudhakarKuma/Machine_Learning/tree/master/ME781). 
 
 ## DataCamp 
 
