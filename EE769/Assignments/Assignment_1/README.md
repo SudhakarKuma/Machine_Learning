@@ -1,0 +1,1 @@
+The SVM will learn using the stochastic gradient descent algorithm (SGD). SGD minimizes a function by following the gradients of the cost function. For further details, click https://maviccprp.github.io/a-support-vector-machine-in-just-a-few-lines-of-python-code/
